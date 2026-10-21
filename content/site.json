@@ -1,0 +1,70 @@
+{
+  "brand": {
+    "name": "RVV Camping",
+    "tagline": "First-time cross-country glamping, one off-grid stop at a time",
+    "logoUrl": null
+  },
+  "navLinks": [
+    {
+      "key": "home",
+      "href": "/"
+    },
+    {
+      "key": "blog",
+      "href": "/blog"
+    },
+    {
+      "key": "route_map",
+      "href": "/route"
+    },
+    {
+      "key": "about",
+      "href": "/about"
+    },
+    {
+      "key": "gear_rig",
+      "href": "/gear-rig"
+    },
+    {
+      "key": "gallery",
+      "href": "/gallery"
+    },
+    {
+      "key": "support",
+      "href": "/support"
+    },
+    {
+      "key": "contact",
+      "href": "/contact"
+    }
+  ],
+  "primaryCta": {
+    "key": "primary",
+    "href": "/blog"
+  },
+  "footerColumns": [
+    {
+      "key": "journey",
+      "links": [
+        { "key": "blog", "href": "/blog" },
+        { "key": "route", "href": "/route" },
+        { "key": "about", "href": "/about" }
+      ]
+    },
+    {
+      "key": "connect",
+      "links": [
+        { "key": "contact", "href": "/contact" },
+        { "key": "support", "href": "/support" },
+        { "key": "gallery", "href": "/gallery" },
+        { "key": "firstStop", "href": "/blog/first-stop-badlands" }
+      ]
+    }
+  ],
+  "socialLinks": [],
+  "motion": {
+    "intensity": 5
+  },
+  "navbarVariant": "split",
+  "footerVariant": "columns"
+}

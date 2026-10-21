@@ -1,0 +1,932 @@
+{
+  "nav": {
+    "home": "Home",
+    "blog": "Blog",
+    "route_map": "Route & Map",
+    "about": "About",
+    "contact": "Contact",
+    "gear_rig": "Gear & Rig",
+    "gallery": "Gallery",
+    "support": "Support"
+  },
+  "cta": {
+    "primary": "Follow the Journey"
+  },
+  "footer": {
+    "tagline": "First-time cross-country glamping, one off-grid stop at a time",
+    "rights": "All rights reserved.",
+    "columns": {
+      "journey": "The Journey",
+      "connect": "Connect"
+    },
+    "links": {
+      "blog": "Blog Dispatches",
+      "route": "Route & Map",
+      "about": "About the Trip",
+      "contact": "Contact Us",
+      "firstStop": "First Stop: Badlands",
+      "support": "Support the Trip",
+      "gallery": "Photo Gallery"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Somewhere on I-80, probably lost",
+      "titleAccent": "Our first",
+      "title": "cross-country glamping run, documented honestly",
+      "subtitle": "We quit pretending we knew what we were doing, hitched an off-grid camper to a pickup truck, and drove across the country. This is the story of the truck, the camper, the dog, and the two of us who are still figuring it out.",
+      "primaryCta": "Read the blog",
+      "secondaryCta": "See the route"
+    },
+    "story": {
+      "eyebrow": "How this started",
+      "title": "Zero glamping experience. One very big truck. No real plan.",
+      "paragraph1": "Neither of us had spent more than a weekend in a tent before we decided the right move was a multi-week, coast-leaning trip in a camper we had owned for exactly eleven days. We told our families it was a long vacation. It was actually a crash course in propane, solar math, and arguing about backing up a trailer.",
+      "paragraph2": "The truck is a Ford F350, which felt enormous in our driveway and suddenly felt correctly sized the first time we hit a crosswind in Wyoming. Behind it rides an MGC 16 XTC, a rugged off-grid teardrop-style camper with its own battery bank, water tank, and just enough room for two adults, one dog, and far too much camping gear.",
+      "paragraph3": "We are not experts. We are not influencers with a sponsorship deck. We are two first-timers writing down what actually happened at each stop, including the parts where we got something wrong, so the next nervous beginner has a more honest map than we did.",
+      "pullQuote": "We didn't learn to glamp before we left. We learned by doing it badly in a parking lot in Nebraska, then slightly less badly every night after."
+    },
+    "team": {
+      "eyebrow": "Who's in the truck",
+      "title": "Meet the crew",
+      "subtitle": "Two first-time glampers, one very patient dog, and a camper that has seen things.",
+      "members": [
+        {
+          "name": "Jess Rivera",
+          "role": "Driver, trip planner, solar panel worrier",
+          "bio": "Plans every route three times and still gets us lost once a week. Keeps the camper's battery bank alive and the snack drawer stocked."
+        },
+        {
+          "name": "Mateo Alvarez",
+          "role": "Navigator, fire builder, dish duty",
+          "bio": "Insisted the F350 could tow the MGC XTC without a sway bar. He was wrong once. Now handles setup and teardown at every stop."
+        },
+        {
+          "name": "Biscuit",
+          "role": "Co-pilot, campsite alarm system",
+          "bio": "An Australian Shepherd who has strong opinions about squirrels and an even stronger opinion about riding shotgun with the window cracked."
+        }
+      ]
+    },
+    "mission": {
+      "eyebrow": "What we actually believe",
+      "title": "Off-grid, but not off-grid at any cost",
+      "subtitle": "A few ground rules we set before leaving the driveway, and have mostly kept since.",
+      "values": [
+        {
+          "title": "Leave the site better",
+          "description": "Every campsite gets packed out cleaner than we found it. Off-grid camping only works long-term if the land can take it."
+        },
+        {
+          "title": "Honest over polished",
+          "description": "We post the nights the solar setup failed right alongside the nights with the perfect sunset. Beginners deserve the whole picture."
+        },
+        {
+          "title": "Slow down on purpose",
+          "description": "This trip isn't a race between landmarks. Some of our best stops were the ones we almost skipped to make better time."
+        },
+        {
+          "title": "Share what we learn",
+          "description": "Every mistake with the hitch, the water tank, or the generator becomes a post, so the next first-timer skips our learning curve."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Follow the rest of the trip",
+      "subtitle": "New stops, honest gear notes, and the occasional breakdown story land on the blog as we drive. Or trace the full route we're following state by state.",
+      "primaryCta": "Read the latest posts",
+      "secondaryCta": "Say hello"
+    }
+  },
+  "blogPostBadlands": {
+    "hero": {
+      "category": "Off-Grid",
+      "title": "First Stop: The Badlands Taught Us What Off-Grid Really Means",
+      "subtitle": "Day three of our first cross-country run in the Ford F-350 and MGC 16 XTC, and the Badlands already rewired how we think about camping without hookups.",
+      "date": "June 3, 2024",
+      "readTime": "9 min read",
+      "author": "Written by the RVV Camping crew",
+      "imageAlt": "Ford F-350 with MGC 16 XTC truck camper parked at a Badlands National Park overlook at sunrise"
+    },
+    "content": {
+      "intro": "We left the driveway with a full water tank, a half-finished packing list, and a mix of confidence and nerves that only a first off-grid trip can produce. Four states and one National Park later, the Badlands handed us our first real lesson in what this rig, and this way of traveling, is actually capable of.",
+      "sections": [
+        {
+          "heading": "Leaving the Driveway",
+          "body": "We had spent two months prepping for this. Spreadsheets, checklists, a dry run in the backyard. None of it fully prepared us for the quiet that sets in about three hours into a real trip, when the town behind you disappears and it is just the highway, the hum of the diesel, and a camper full of gear you hope you packed correctly."
+        },
+        {
+          "heading": "The Ford F-350 Meets the MGC 16 XTC",
+          "body": "The pairing felt oversized on paper, a heavy-duty dually under a flatbed off-grid camper built for serious remoteness. On the road it settled in fast. The XTC's long-range tanks and solar setup meant we skipped two planned fuel-and-water stops entirely, and the suspension soaked up the washboard gravel leading into the park without a single rattle from the cabinets.",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/cb926a25950e4632afabcab53fc699f6.jpg",
+          "imageAlt": "Ford F-350 towing the MGC 16 XTC off-grid camper down a gravel road toward the Badlands"
+        },
+        {
+          "heading": "First Night Off the Grid",
+          "body": "No hookups, no neighbors, no cell signal past a single flickering bar. We ran the induction cooktop off the camper's battery bank, boiled water for coffee at sunset, and sat on the tailgate watching the rock formations turn from gold to rust to a deep, bruised purple. It was the first time either of us had camped somewhere this isolated, and it was quieter than we knew how to process."
+        },
+        {
+          "heading": "Badlands at Golden Hour",
+          "body": "Every guidebook warns you about the light here, and every guidebook undersells it. The striped buttes catch the early sun in bands of pink and ochre that shift by the minute. We set an alarm for 5:15 a.m. on day two just to catch it from the Door Trail overlook, and it was worth every bit of the lost sleep.",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/fa08409df7954a68a1bd74e642e82286.jpg",
+          "imageAlt": "Striped rock formations in Badlands National Park glowing pink and gold at sunrise"
+        },
+        {
+          "heading": "What We'd Do Differently",
+          "body": "We underestimated how much dust gets into everything out here, and we will pack a second set of cabin air filters next time. We also learned to top off water at every reasonable chance rather than waiting for the tank to run low. Small lessons, but exactly the kind you only learn by actually going."
+        }
+      ]
+    },
+    "gallery": {
+      "eyebrow": "Photo Log",
+      "title": "A few frames from the Badlands stop",
+      "close": "Close image",
+      "previous": "Previous image",
+      "next": "Next image",
+      "items": [
+        {
+          "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/327d8f0a5ba441e6ab2b05dd77cbc327.jpg",
+          "alt": "Layered rock formations in Badlands National Park at sunset",
+          "caption": "Sunset over the buttes, night one"
+        },
+        {
+          "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/9ff0b782d9c34eada24eb48b561a9776.jpg",
+          "alt": "Ford F-350 with off-grid truck camper parked near Badlands rock formations",
+          "caption": "The rig at our first boondocking site"
+        },
+        {
+          "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/e012d2f4a3934705a9fd37f6a08a3547.jpg",
+          "alt": "MGC 16 XTC truck camper set up at a remote campsite",
+          "caption": "Camp kitchen, fully off-grid"
+        },
+        {
+          "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/df61a19ab0344d868797e3d7889dc901.jpg",
+          "alt": "Star-filled night sky over Badlands National Park",
+          "caption": "Zero light pollution, full Milky Way"
+        },
+        {
+          "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/06b4f65beba1422db32eb4747c302ce8.jpg",
+          "alt": "Cooking breakfast on the camper's outdoor kitchen setup",
+          "caption": "Camp coffee before the sunrise hike"
+        },
+        {
+          "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/c2dae2a18e55463ab15ace22bd2f432c.jpg",
+          "alt": "Hiking trail winding through Badlands National Park formations",
+          "caption": "The Door Trail at golden hour"
+        }
+      ]
+    },
+    "related": {
+      "eyebrow": "Keep Reading",
+      "title": "More stops from the road",
+      "viewAll": "View all posts",
+      "items": [
+        {
+          "title": "Choosing the MGC 16 XTC: Why We Went Off-Grid First",
+          "excerpt": "Before the trip even started, here is how we landed on a truck camper built for places without hookups.",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/da4eb019683e41659140780210054d59.jpg",
+          "category": "Rig Build",
+          "href": "/blog"
+        },
+        {
+          "title": "Boondocking 101: What We Learned the Hard Way",
+          "excerpt": "Water math, battery anxiety, and the dump-station mistake we will not make twice.",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/9ea86cfd45a84f8a8f44b55a7035fb70.jpg",
+          "category": "Off-Grid Tips",
+          "href": "/blog"
+        },
+        {
+          "title": "Next Stop: The Black Hills and Custer State Park",
+          "excerpt": "From striped buttes to pine-covered hills, our route west keeps getting better.",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/217e24f4bfe946a3a7cd362f59246755.jpg",
+          "category": "Route Log",
+          "href": "/blog"
+        }
+      ]
+    },
+    "comments": {
+      "title": "{count, plural, =0 {No comments yet} =1 {1 comment} other {# comments}}",
+      "replyTitle": "Leave a reply",
+      "nameLabel": "Name",
+      "namePlaceholder": "Your name",
+      "messageLabel": "Comment",
+      "messagePlaceholder": "Share your thoughts or questions about the trip",
+      "submitLabel": "Post comment",
+      "successMessage": "Thanks, your comment has been posted.",
+      "justNow": "Just now",
+      "items": [
+        {
+          "id": "c1",
+          "name": "Maria Chen",
+          "date": "June 4, 2024",
+          "text": "That sunrise shot from the Door Trail is unbelievable. How cold did it get overnight off-grid out there?"
+        },
+        {
+          "id": "c2",
+          "name": "Dave Holloway",
+          "date": "June 4, 2024",
+          "text": "We run an F-350 too and have been eyeing the XTC for a while. Good to hear the suspension handled the gravel well."
+        },
+        {
+          "id": "c3",
+          "name": "Priya Nair",
+          "date": "June 5, 2024",
+          "text": "The dust warning is real advice, learned that one on our own trip through Utah. Following along for the rest of the route."
+        }
+      ]
+    }
+  },
+  "routeMap": {
+    "hero": {
+      "eyebrow": "The Route",
+      "title": "Three weeks, six stops, one off-grid F-350",
+      "subtitle": "A loose but honest map of our first cross-country glamping run: a Ford F-350 hauling an MGC 16 XTC off-grid camper from the Badlands to the Grand Canyon, boondocking most nights and chasing weather the rest.",
+      "stats": [
+        {
+          "label": "The rig",
+          "value": "F-350 + MGC 16 XTC"
+        },
+        {
+          "label": "Duration",
+          "value": "21 days"
+        },
+        {
+          "label": "Distance",
+          "value": "2,310 mi"
+        },
+        {
+          "label": "Stops",
+          "value": "6 basecamps"
+        }
+      ]
+    },
+    "map": {
+      "eyebrow": "Where We Went",
+      "title": "An illustrated line from the Badlands to the canyon rim",
+      "subtitle": "This isn't to scale and it isn't trying to be. Tap any marker to jump to that leg of the trip, see the dates, and read what actually happened there.",
+      "hint": "Tap a marker to jump to that stop below."
+    },
+    "timeline": {
+      "eyebrow": "Day By Day",
+      "title": "The itinerary, as it actually unfolded",
+      "subtitle": "Six legs, six very different kinds of camp. Dates shifted more than once for weather and one blown fuse, but the order held."
+    },
+    "stopDetails": {
+      "eyebrow": "Stop Notes",
+      "title": "What to expect at each basecamp",
+      "subtitle": "Expand any stop for the highlights worth planning around, from boondocking spots to the one overlook that made the whole detour worth it.",
+      "highlightsLabel": "Highlights"
+    },
+    "stops": [
+      {
+        "id": "badlands",
+        "name": "Badlands",
+        "state": "South Dakota",
+        "dateLabel": "Day 1-2",
+        "nights": "2 nights",
+        "miles": "Mile 0",
+        "description": "Our shakedown stop. First night running the MGC's solar and water systems for real, parked on BLM land just outside the park with the striped buttes glowing at sunset.",
+        "highlights": [
+          "Free dispersed camping on Sage Creek Rim Road, no hookups needed",
+          "Sunrise light on the formations is worth the early alarm",
+          "Last reliable cell signal before Wyoming, download your maps here"
+        ]
+      },
+      {
+        "id": "blackhills",
+        "name": "Black Hills",
+        "state": "Wyoming",
+        "dateLabel": "Day 3-5",
+        "nights": "3 nights",
+        "miles": "Mile 340",
+        "description": "Slower pace through the Black Hills National Forest, running the generator just enough to keep the fridge happy while we hiked and let the truck cool down after the first long haul.",
+        "highlights": [
+          "Forest service roads had room for the camper with no reservations",
+          "Good spot to flush and refill the MGC's fresh water tank in town",
+          "Cooler nights meant barely touching the furnace"
+        ]
+      },
+      {
+        "id": "yellowstone",
+        "name": "Yellowstone",
+        "state": "Wyoming",
+        "dateLabel": "Day 6-9",
+        "nights": "4 nights",
+        "miles": "Mile 610",
+        "description": "The longest stay of the trip. Split between a paid campground for laundry and tank dumps, and two nights boondocking near the park's east entrance for quiet and dark skies.",
+        "highlights": [
+          "Book shoulder-season campsites months ahead, they fill fast",
+          "Bear-proof storage is mandatory, plan your camper's exterior space for it",
+          "East entrance pullouts had the best stargazing of the whole route"
+        ]
+      },
+      {
+        "id": "tetons",
+        "name": "Grand Teton",
+        "state": "Wyoming",
+        "dateLabel": "Day 10-11",
+        "nights": "2 nights",
+        "miles": "Mile 690",
+        "description": "A short, scenic leg mostly spent just looking at the mountains. Easiest tow of the trip, flat roads and the camper barely noticed the grade.",
+        "highlights": [
+          "Jenny Lake turnouts are tight, scout parking before towing in",
+          "Quick stop for propane refill at the gateway town",
+          "Clear mornings gave the best mountain reflections on the lake"
+        ]
+      },
+      {
+        "id": "moab",
+        "name": "Moab",
+        "state": "Utah",
+        "dateLabel": "Day 12-16",
+        "nights": "5 nights",
+        "miles": "Mile 1,120",
+        "description": "Where the off-grid build finally earned its keep. Five nights on slickrock BLM land outside Arches, running entirely on solar and the onboard water tank.",
+        "highlights": [
+          "BLM land along Willow Springs Road had the best sunset views",
+          "Sand and grit are rough on seals, rinse the undercarriage after",
+          "A dedicated water filter made boondocking this long comfortable"
+        ]
+      },
+      {
+        "id": "grandcanyon",
+        "name": "Grand Canyon",
+        "state": "Arizona",
+        "dateLabel": "Day 17-21",
+        "nights": "5 nights",
+        "miles": "Mile 2,310",
+        "description": "The finale. Desert View campground for two nights, then a long detour to the North Rim for the quieter overlooks before heading home.",
+        "highlights": [
+          "North Rim closes earlier in the season, call ahead before detouring",
+          "Desert heat meant running the roof fan nonstop, pack extra battery",
+          "Fewer crowds at the North Rim made it the trip's best overlook"
+        ]
+      }
+    ]
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "First-Time Cross-Country Glamping",
+      "titlePrefix": "We pointed a Ford F-350 west and",
+      "titleAccent": "didn't stop until the pavement did",
+      "subtitle": "Real dispatches from our off-grid loop in a Ford F-350 and MGC 16 XTC: the breakdowns, the belly laughs, and the nights the stars finally won.",
+      "primaryCta": "Read the dispatches",
+      "secondaryCta": "Trace the route",
+      "imageAlt": "Ford F-350 towing an MGC 16 XTC off-grid camper parked in a desert canyon at dusk"
+    },
+    "stats": {
+      "title": "The rig, by the numbers",
+      "subtitle": "What it actually took to live off-grid for six weeks in a truck and trailer built for pavement, mostly.",
+      "items": [
+        {
+          "value": "42",
+          "label": "Days on the road"
+        },
+        {
+          "value": "6,180",
+          "label": "Miles logged"
+        },
+        {
+          "value": "14",
+          "label": "States crossed"
+        },
+        {
+          "value": "31",
+          "label": "Nights off-grid"
+        },
+        {
+          "value": "3",
+          "label": "Tire patches so far"
+        },
+        {
+          "value": "1",
+          "label": "Truck, one camper, zero regrets"
+        }
+      ]
+    },
+    "featured": {
+      "eyebrow": "Latest from the logbook",
+      "title": "Fresh off the dash cam",
+      "subtitle": "Snapshots from the road while we catch up on sleep and laundry.",
+      "posts": [
+        {
+          "title": "First Stop: The Badlands Humbled Us",
+          "excerpt": "Forty-eight hours in, the GPS lied, the leveling jacks sank into clay, and we learned what off-grid really means.",
+          "tag": "Trip Log",
+          "href": "/blog/first-stop-badlands",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/85905addef874885b198be028a0c12c2.jpg",
+          "alt": "MGC 16 XTC camper parked in the Badlands at sunset"
+        },
+        {
+          "title": "Solar, Batteries, and the Math We Should Have Done First",
+          "excerpt": "A practical breakdown of keeping the lights, fridge, and coffee maker alive without a hookup in sight.",
+          "tag": "Gear & Setup",
+          "href": "/blog",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/5140d15308d643359331d2bb18749f3a.jpg",
+          "alt": "Solar panels mounted on the roof of an off-grid camper trailer"
+        },
+        {
+          "title": "The Night We Almost Turned Around",
+          "excerpt": "A flat tire, a dead signal, and the conversation that decided whether this trip kept going.",
+          "tag": "Field Notes",
+          "href": "/blog",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/78c0fcb885504a67a7b8cd392d6db1bf.jpg",
+          "alt": "Campfire glowing beside a camper trailer under a starry sky"
+        }
+      ]
+    },
+    "values": {
+      "eyebrow": "What six weeks taught us",
+      "title": "Practical lessons, dumb mistakes, and a few things worth crying about",
+      "subtitle": "This trip was never just scenery. Here's the mix, exactly as it happened.",
+      "items": [
+        {
+          "icon": "activity",
+          "title": "Running off-grid without losing your mind",
+          "description": "How we budget solar, propane, and water across a week with no hookups, and what we underestimated by a mile."
+        },
+        {
+          "icon": "alert",
+          "title": "The mistakes we now laugh about",
+          "description": "Towing with the stabilizer jacks still down, a cooler that wasn't actually bear-proof, and the campsite we booked in a flash flood zone."
+        },
+        {
+          "icon": "heart",
+          "title": "The nights that changed how we travel",
+          "description": "No signal, no agenda, just the two of us and a sky with more stars than we'd ever counted."
+        },
+        {
+          "icon": "star",
+          "title": "Stops worth the extra miles",
+          "description": "The pullouts, backroads, and free dispersed sites that beat every paid campground we booked along the way."
+        }
+      ]
+    },
+    "notes": {
+      "eyebrow": "Straight from the logbook",
+      "title": "Trail notes, unedited",
+      "subtitle": "Entries pulled straight from the journal we kept on the dash.",
+      "items": [
+        {
+          "quote": "Day 6: The Ford pulled the XTC up a grade that made the transmission temp gauge do things I didn't know were possible. We stopped twice. The view was worth it.",
+          "name": "Cole",
+          "role": "Badlands, Day 6"
+        },
+        {
+          "quote": "Day 14: Realized today we've showered twice in a week and neither of us cares anymore. That's when you know the trip has really started.",
+          "name": "Jess",
+          "role": "Black Hills, Day 14"
+        },
+        {
+          "quote": "Day 29: No cell signal for three days straight. Read two books, relearned how to talk to each other without a screen between us.",
+          "name": "Jess & Cole",
+          "role": "Western Montana, Day 29"
+        }
+      ]
+    },
+    "cta": {
+      "eyebrow": "Come along for the next stretch",
+      "title": "Get the next dispatch before we even finish editing the photos",
+      "subtitle": "Drop your email and we'll send new posts, route updates, and the occasional you-won't-believe-what-just-happened straight to your inbox.",
+      "nameLabel": "Your name",
+      "emailLabel": "Email address",
+      "messageLabel": "Where are you dreaming of camping?",
+      "namePlaceholder": "Jess Rivera",
+      "emailPlaceholder": "you@example.com",
+      "messagePlaceholder": "Somewhere with zero bars and a great view",
+      "submitLabel": "Subscribe",
+      "successTitle": "You're on the list",
+      "successMessage": "Thanks for following along. Watch your inbox for the next stop.",
+      "errorMessage": "Please add your name and a valid email so we know where to send it.",
+      "privacyNote": "No spam, just logbook entries. Unsubscribe anytime."
+    }
+  },
+  "blogArchive": {
+    "hero": {
+      "eyebrow": "The RVV Camping Dispatch",
+      "title": "Notes from a Ford F-350 and an off-grid camper, somewhere between home and everywhere",
+      "subtitle": "We are two first-timers hauling an MGC 16 XTC across the country, one off-grid stop at a time. Expect route notes, gear that worked (and didn't), off-grid lessons, campfire cooking, and the occasional elk at sunrise.",
+      "stats": [
+        {
+          "value": "1",
+          "label": "Dispatch published so far"
+        },
+        {
+          "value": "5",
+          "label": "More dispatches on the way"
+        },
+        {
+          "value": "MGC 16 XTC",
+          "label": "Our off-grid rig"
+        }
+      ]
+    },
+    "search": {
+      "inputLabel": "Search the blog",
+      "inputPlaceholder": "Search dispatches, gear, routes...",
+      "filterLabel": "Filter by category",
+      "allLabel": "All posts",
+      "noResultsTitle": "No dispatches match yet",
+      "noResultsBody": "Try a different search term or clear the category filter. New stories from the road get added every week."
+    },
+    "postGrid": {
+      "eyebrow": "From the road",
+      "title": "Every stop, lesson, and campfire mistake",
+      "subtitle": "A running log of our first cross-country glamping trip, written as the F-350 and the MGC 16 XTC make their way from one off-grid site to the next.",
+      "readMore": "Read the dispatch",
+      "comingSoon": "Coming soon",
+      "posts": [
+        {
+          "slug": "first-stop-badlands",
+          "title": "First Stop: Badlands",
+          "excerpt": "Three days into towing the MGC 16 XTC behind the F-350 and we already learned the first rule of this trip: check the weather twice, then once more. The Badlands greeted us with a dust storm and a sunset that made the shaky campsite backup worth it.",
+          "category": "Route Notes",
+          "date": "May 12, 2024",
+          "readTime": "6 min read",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/5ce85a50acf24c498e7d64823421b065.jpg",
+          "alt": "Ford F-350 with an off-grid truck camper parked at sunset in the Badlands",
+          "published": true
+        },
+        {
+          "slug": "dialing-in-the-mgc-16-xtc",
+          "title": "Dialing In the MGC 16 XTC: Our First Week Off-Grid",
+          "excerpt": "No hookups, no cell signal, and a camper we had only driven around the block once before leaving. Here is what broke, what surprised us, and why the slide-out jack is now our favorite piece of equipment.",
+          "category": "Gear & Rig",
+          "date": "May 19, 2024",
+          "readTime": "8 min read",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/e60f30d9cf504eb6ba1513ebc5b60f4c.jpg",
+          "alt": "Interior of an off-grid truck camper being set up at a campsite",
+          "published": false
+        },
+        {
+          "slug": "solar-batteries-no-hookups",
+          "title": "Solar, Batteries, and Learning to Live Without a Hookup",
+          "excerpt": "We budgeted for solar panels and a lot of optimism. Six days off-grid later, here is the real math on keeping the fridge cold, the lights on, and the coffee maker running without ever plugging in.",
+          "category": "Off-Grid Living",
+          "date": "May 26, 2024",
+          "readTime": "7 min read",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/00987827e146495bb8a914369c6cefc1.jpg",
+          "alt": "Solar panels mounted on the roof of a truck camper",
+          "published": false
+        },
+        {
+          "slug": "cast-iron-tailgate-cooking",
+          "title": "Cast Iron on the Tailgate: Camp Cooking in the Ford 350",
+          "excerpt": "One burner, one skillet, and a tailgate for a counter. The meals that actually worked after a 400-mile driving day, and the one we will never try again.",
+          "category": "Food & Camp Cooking",
+          "date": "June 2, 2024",
+          "readTime": "5 min read",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/1123e412ec8f4a019a291fb6a33b3b50.jpg",
+          "alt": "Cast iron skillet cooking on a truck tailgate at camp",
+          "published": false
+        },
+        {
+          "slug": "elk-at-dawn",
+          "title": "Elk at Dawn: Wildlife We Didn't Expect",
+          "excerpt": "We set an alarm for sunrise coffee and got a front row seat to a bull elk walking straight through camp. A reminder that the best parts of this trip were never on the itinerary.",
+          "category": "Wildlife & Nature",
+          "date": "June 9, 2024",
+          "readTime": "4 min read",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/5f3eb47f732442f5973ff86b0fc5f8e5.jpg",
+          "alt": "Bull elk walking through a campsite at dawn",
+          "published": false
+        },
+        {
+          "slug": "five-things-wed-do-differently",
+          "title": "Five Things We'd Do Differently",
+          "excerpt": "Hindsight from the first leg of a cross-country trip we are still figuring out as we go: tank sizes, tire pressure, and why we should have practiced backing up before leaving the driveway.",
+          "category": "Lessons Learned",
+          "date": "June 16, 2024",
+          "readTime": "9 min read",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/872e9639ace748efaffe494ed9f83ce4.jpg",
+          "alt": "Truck camper parked overlooking a mountain valley",
+          "published": false
+        }
+      ]
+    },
+    "pagination": {
+      "navLabel": "Blog pagination",
+      "prevLabel": "Previous page",
+      "nextLabel": "Next page",
+      "pageLabel": "Page {page}",
+      "summary": "Showing {shown} of {total} dispatches"
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "eyebrow": "Say Hello",
+      "title": "Get in touch with the RVV Camping crew",
+      "subtitle": "Questions about the rig, collab ideas, or just want to tell us where to camp next? We read every message between fuel stops and campsite setups."
+    },
+    "form": {
+      "eyebrow": "Drop us a line",
+      "title": "Send a message",
+      "subtitle": "Fill out the form and we'll get back to you as soon as we find a signal.",
+      "nameLabel": "Name",
+      "emailLabel": "Email",
+      "subjectLabel": "Subject",
+      "messageLabel": "Message",
+      "submitLabel": "Send Message",
+      "successMessage": "Thanks for reaching out. We'll reply as soon as we're back in cell range.",
+      "errorMessage": "Something went wrong sending your message. Please try again.",
+      "details": [
+        {
+          "label": "Email",
+          "value": "hello@rvvcamping.com"
+        },
+        {
+          "label": "Response time",
+          "value": "Usually within 2-3 days, longer if we're off-grid"
+        },
+        {
+          "label": "Home base",
+          "value": "Currently somewhere between the Rockies and the Pacific"
+        }
+      ]
+    },
+    "social": {
+      "eyebrow": "Collaborate With Us",
+      "title": "Find us out on the road",
+      "subtitle": "Brands, campgrounds, and fellow first-timers: here's where to reach us for partnerships and features.",
+      "items": [
+        {
+          "title": "Instagram",
+          "description": "Daily photo dispatches from the road, campsite reveals, and the dog's unofficial travel diary. Best spot for quick collab DMs."
+        },
+        {
+          "title": "YouTube",
+          "description": "Full walkthroughs of the MGC 16 XTC setup, breakdown stories, and stop-by-stop route recaps. Open to gear review partnerships."
+        },
+        {
+          "title": "Newsletter",
+          "description": "The most honest version of the trip, straight to your inbox. Sponsors and campground partners, this is where longer features run."
+        },
+        {
+          "title": "TikTok",
+          "description": "Short clips of the rig in motion, off-grid hacks, and the moments too chaotic for a full blog post. Great fit for quick-turn promos."
+        }
+      ]
+    }
+  },
+  "supportPage": {
+    "hero": {
+      "eyebrow": "Keep Us Rolling",
+      "title": "Support the trip, one tank of gas at a time",
+      "subtitle": "We're funding this entire cross-country run ourselves. If the dispatches, route notes, or off-grid lessons have been useful, here's how to help us keep going."
+    },
+    "plans": {
+      "eyebrow": "Support the Journey",
+      "subtitle": "Choose how you'd like to support our cross-country adventure and get exclusive perks along the way.",
+      "title": "Keep Us Rolling"
+    },
+    "why": {
+      "eyebrow": "Where It Goes",
+      "title": "What your support actually covers",
+      "subtitle": "No ad networks, no sponsored fluff. Just a truck, a camper, and the real cost of documenting a trip like this.",
+      "items": [
+        {
+          "title": "Fuel for the long hauls",
+          "description": "Towing the MGC 16 XTC behind the F-350 is not cheap on diesel, especially over mountain passes and long desert stretches."
+        },
+        {
+          "title": "Keeping the rig running",
+          "description": "Tire patches, filter changes, and the inevitable repairs that come from six weeks of washboard roads and off-grid living."
+        },
+        {
+          "title": "More dispatches, more often",
+          "description": "Support covers the time it takes to write, edit, and publish honest posts instead of rushing through each stop."
+        },
+        {
+          "title": "Staying ad-free",
+          "description": "No banner ads, no popups, no sponsored gear we don't actually use. Reader support is what keeps the blog honest."
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Questions",
+      "title": "Support FAQ",
+      "subtitle": "The practical details on tips, memberships, and sponsorships.",
+      "items": [
+        {
+          "question": "Is the Trail Tip a one-time payment?",
+          "answer": "Yes. The Trail Tip is a single one-time contribution, no subscription involved. It's the easiest way to say thanks for a specific post."
+        },
+        {
+          "question": "Can I cancel a Camp Crew or Road Sponsor membership anytime?",
+          "answer": "Absolutely. Both memberships are month-to-month with no contract. Cancel whenever you'd like and you won't be charged again."
+        },
+        {
+          "question": "Do sponsors get to pick which post they're featured in?",
+          "answer": "We work with Road Sponsors to find a dispatch that fits naturally, usually tied to a relevant stop or gear update, so the mention feels honest rather than forced."
+        },
+        {
+          "question": "Does supporting the trip change what you write about?",
+          "answer": "No. We keep every post honest, including the mistakes and the gear that didn't work. Support covers the cost of the trip, not the opinions in the dispatches."
+        }
+      ]
+    }
+  },
+  "galleryPage": {
+    "hero": {
+      "eyebrow": "The Photo Log",
+      "title": "Standout frames from every stop on the route",
+      "subtitle": "A running collection of the shots that made us pull over, set a 5 a.m. alarm, or just stand still for a minute. Every stop from the Badlands to the Grand Canyon, in pictures."
+    },
+    "photos": [
+      {
+        "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/a0b072401e3547d3b18d468bdf874fe9.jpg",
+        "alt": "Sunrise light on striped rock formations in Badlands National Park",
+        "caption": "First light on the buttes, our very first off-grid morning",
+        "location": "Badlands, South Dakota"
+      },
+      {
+        "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/17592a28d53c49ddaa44853a103cde31.jpg",
+        "alt": "Ford F-350 towing an off-grid camper down a gravel road near the Badlands",
+        "caption": "The rig earning its keep on washboard gravel",
+        "location": "Badlands, South Dakota"
+      },
+      {
+        "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/e5ad50a94e4347f2bd7a8a04c4fd9b61.jpg",
+        "alt": "Campfire glowing beside a camper trailer under a starry sky",
+        "caption": "The night we almost turned around, and didn't",
+        "location": "Black Hills, Wyoming"
+      },
+      {
+        "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/62e893b69e55458daeef45870fd904c1.jpg",
+        "alt": "MGC 16 XTC off-grid camper parked at a mountain overlook at dusk",
+        "caption": "Camp set up with a view we didn't plan for",
+        "location": "Black Hills, Wyoming"
+      },
+      {
+        "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/d4e0232714404ec69d29bd3b7165fd40.jpg",
+        "alt": "Bull elk walking through a quiet campsite at dawn",
+        "caption": "Uninvited company at sunrise coffee",
+        "location": "Yellowstone, Wyoming"
+      },
+      {
+        "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/8cc66f4c521a4c259573fe64d9511170.jpg",
+        "alt": "Milky Way stretching over a truck camper in a dark sky location",
+        "caption": "Zero light pollution, full Milky Way, no words for it",
+        "location": "Yellowstone, Wyoming"
+      },
+      {
+        "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/4ebabda7ab6b40cf915e38fd0b394fcd.jpg",
+        "alt": "Grand Teton mountains reflected in a still lake in the morning",
+        "caption": "The easiest tow of the trip, the best view of the trip",
+        "location": "Grand Teton, Wyoming"
+      },
+      {
+        "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/1252743dda174a2bbe45b4b75995be25.jpg",
+        "alt": "Australian Shepherd dog hiking a mountain trail",
+        "caption": "Biscuit, official trail supervisor",
+        "location": "Grand Teton, Wyoming"
+      },
+      {
+        "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/267c68f8dc594442910d93e585062b51.jpg",
+        "alt": "Off-grid camper parked on slickrock desert terrain at sunset near Moab",
+        "caption": "Five nights on solar and tank water alone",
+        "location": "Moab, Utah"
+      },
+      {
+        "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/9e0e563f113e4058ab209f1041bc9d48.jpg",
+        "alt": "Desert night sky full of stars behind a silhouetted camper",
+        "caption": "The darkest sky of the whole route",
+        "location": "Moab, Utah"
+      },
+      {
+        "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/72e586a3d283433d9dce5bef703f7ad7.jpg",
+        "alt": "Breakfast cooking on a camp stove beside a lake at sunrise",
+        "caption": "Cast iron, camp coffee, and a view we almost drove past",
+        "location": "Northern Arizona"
+      },
+      {
+        "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/f8226e0564ae43bab8a5432e288287fc.jpg",
+        "alt": "Sunset over the Grand Canyon North Rim overlook",
+        "caption": "The finale overlook, worth every mile to get there",
+        "location": "Grand Canyon, Arizona"
+      }
+    ],
+    "stats": [
+      {
+        "value": "14",
+        "label": "States visited"
+      },
+      {
+        "value": "6,180",
+        "label": "Miles driven"
+      },
+      {
+        "value": "31",
+        "label": "Nights off-grid"
+      },
+      {
+        "value": "2,400+",
+        "label": "Photos taken"
+      }
+    ],
+    "ctaPrimary": "Submit Photo",
+    "ctaSecondary": "Follow Us",
+    "ctaSubtitle": "Found a shot that speaks to you? Tag us on social media and we'll feature it in our community gallery.",
+    "ctaTitle": "Share Your Favorites",
+    "photoGridSubtitle": "A visual journey across America—every stop, every sunset, every unexpected moment captured.",
+    "photoGridTitle": "Road Stories in Frames"
+  },
+  "gearRigPage": {
+    "hero": {
+      "eyebrow": "The Rig",
+      "title": "A Ford F-350 and an MGC 16 XTC, built for places without hookups",
+      "subtitle": "Everything we drive, tow, and live out of on this trip. Here's the full rundown of the truck, the camper, and the gear that keeps us off-grid."
+    },
+    "rigOverview": {
+      "eyebrow": "Meet the Rig",
+      "title": "One heavy-duty truck, one off-grid camper, zero regrets",
+      "paragraph1": "The Ford F-350 is a diesel dually we picked specifically for towing capacity and stability, not comfort. It felt enormous in our driveway and exactly right the first time a crosswind hit us in Wyoming. It's the kind of truck that makes a 2,000-pound camper feel like an afterthought on the highway.",
+      "paragraph2": "Behind it rides the MGC 16 XTC, a rugged off-grid truck camper with its own battery bank, fresh water tank, and solar array, built for exactly the kind of boondocking we're doing. It's compact enough to handle forest service roads and slickrock, with just enough room for two adults, one dog, and far too much gear.",
+      "image": {
+        "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/a294e452c5424fd19aba89d91e63bf24.jpg",
+        "alt": "Ford F-350 towing an MGC 16 XTC off-grid camper on a highway"
+      }
+    },
+    "specs": {
+      "eyebrow": "Under the Hood",
+      "title": "The specs that make off-grid possible",
+      "subtitle": "What's actually powering, hauling, and housing us for six weeks on the road.",
+      "items": [
+        {
+          "title": "Diesel power and towing capacity",
+          "description": "The F-350's diesel engine and dually axle give us well over the towing capacity we need for the fully loaded XTC, with margin to spare on mountain grades."
+        },
+        {
+          "title": "Battery bank and power management",
+          "description": "The camper's onboard lithium battery bank keeps the fridge, lights, and induction cooktop running for days without needing a hookup or generator."
+        },
+        {
+          "title": "Fresh water and tank capacity",
+          "description": "A sizable fresh water tank gets us through four to five days of cooking, dishes, and quick showers before we need to refill in town."
+        },
+        {
+          "title": "Sleeps two, comfortably",
+          "description": "The XTC's layout fits two adults and a dog without feeling like a tent, with real storage instead of gear piled on the floor."
+        },
+        {
+          "title": "Rooftop solar array",
+          "description": "Solar panels on the camper roof keep the battery bank topped off on sunny days, which out west has been most of them."
+        },
+        {
+          "title": "Heavy-duty suspension and all-terrain tires",
+          "description": "Upgraded suspension and all-terrain tires on both the truck and camper have handled washboard gravel and slickrock without a single flat so far."
+        }
+      ]
+    },
+    "gearList": {
+      "eyebrow": "What We Carry",
+      "title": "Essential gear riding along with us",
+      "subtitle": "The equipment that actually earns its space in the truck bed and camper storage.",
+      "items": [
+        {
+          "title": "Recovery gear",
+          "description": "Traction boards, a shovel, and a basic tow strap for the soft sand and mud we didn't always see coming."
+        },
+        {
+          "title": "Portable power station",
+          "description": "A backup battery pack for charging phones, cameras, and laptops when we don't want to dip into the camper's main bank."
+        },
+        {
+          "title": "Camp cooking setup",
+          "description": "A two-burner propane stove, cast iron skillet, and the camper's built-in induction cooktop cover most of what we cook."
+        },
+        {
+          "title": "Water filtration system",
+          "description": "A gravity-fed filter lets us top off from streams or questionable spigots without worrying about what's in the tank."
+        },
+        {
+          "title": "Camp furniture",
+          "description": "Two folding chairs, a collapsible table, and a dog bed that Biscuit has claimed as permanently hers."
+        },
+        {
+          "title": "Tool kit and spare parts",
+          "description": "Basic hand tools, extra fuses, hitch hardware, and a tire repair kit, because something always needs tightening after a gravel road."
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Rig Questions",
+      "title": "Living with the rig, honestly",
+      "subtitle": "What people ask us most at gas stations and campgrounds.",
+      "items": [
+        {
+          "question": "How often does the rig need maintenance on a trip like this?",
+          "answer": "We check tire pressure and fluid levels every few days and do a full inspection weekly. Washboard roads and elevation changes mean small issues show up fast if you're not looking."
+        },
+        {
+          "question": "Is the F-350 overkill for the MGC 16 XTC?",
+          "answer": "On paper, maybe. In practice, the extra towing margin has made mountain passes, headwinds, and loaded gear feel like a non-issue instead of a stress point."
+        },
+        {
+          "question": "What was the biggest surprise about living out of the camper?",
+          "answer": "How livable it actually is. We expected to feel cramped after a week. Six weeks in, the layout, storage, and battery setup have held up better than we did."
+        }
+      ]
+    }
+  }
+}
